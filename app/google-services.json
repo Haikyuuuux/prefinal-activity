@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419423672092",
+    "project_id": "haikojay-b96ae",
+    "storage_bucket": "haikojay-b96ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419423672092:android:ca9543f4e396c57732ccd9",
+        "android_client_info": {
+          "package_name": "com.example.prefinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0AOaLAs7ZBw3EgTWGQ7fbvhzgk883vxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
